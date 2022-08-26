@@ -1,0 +1,2 @@
+# leakfridas
+leak frida scripts
